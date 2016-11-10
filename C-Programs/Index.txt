@@ -1,0 +1,8 @@
+Lab 1 - Personal Info
+Lab 2 - Fahrenheit & Celsius
+Lab 3 - Quadratic Equation
+Lab 4 - Sin, Cos, Exp
+Lab 5 - shellSort & binarySearch
+Lab 6 - Days past
+Lab 7 - Blinn Clothes Co.
+Lab 8 - Bowling
