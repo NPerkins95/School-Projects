@@ -6,6 +6,3 @@ Hw 5:     Multiple modes
 Hw 6:     Bulls and Cows
 Hw 7:     Palindrome
 Hw 8:     Button (FLTK)
-
-Lab 1:    Tweets
-Lab 2:    
