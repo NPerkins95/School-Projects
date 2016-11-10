@@ -1,23 +1,16 @@
-Lab 5 - Tweets
-
-Lab 7 - Dice
-Lab 8 - Loops
-Lab 9 - Tips
-
-Lab 11 - Multiplication Tables
-
-
-Lab 14 - Class
-Lab 15 - Bulls and Cows Exception
-Lab 16 - Parse Tree
-
-
-Lab 19 - Bank
-Lab 20 - FLTK Hello World
-Lab 21 - Shapes
-Lab 22 - Button
-Lab 23 - Button Callback
-Lab 24 - Txt file
-Lab 25 - Command line arguments
-
-Lab 27 - Templates
+Lab 1:    Tweets
+Lab 2:    Dice
+Lab 3:    Loops
+Lab 4:    Tips
+Lab 5:    Multiplication Tables
+Lab 6:    Class
+Lab 7:    Bulls and Cows Exception
+Lab 8:    Parse Tree
+Lab 9:    Bank
+Lab 10:   FLTK Hello World
+Lab 11:   Shapes
+Lab 12:   Button
+Lab 13:   Button Callback
+Lab 14:   Txt file
+Lab 15:   Command line arguments
+Lab 16:   Templates
