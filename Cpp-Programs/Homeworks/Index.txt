@@ -1,0 +1,11 @@
+Hw 1:     quadratic equation
+HW 2:     Even or odd
+Hw 3:     Grains
+Hw 4:     Rand generator
+Hw 5:     Multiple modes
+Hw 6:     Bulls and Cows
+Hw 7:     Palindrome
+Hw 8:     Button (FLTK)
+
+Lab 1:    Tweets
+Lab 2:    
